@@ -11,4 +11,4 @@ SHA-256: 87203c336dcc512da2d3f001adcfdb67d6514f80b22c327338e7b8d4b7427c9f
 
 [Crynux Tokenomics](https://github.com/crynux-network-dao/crynux-dao-documents/blob/main/crynux-tokenomics.md)
 
-SHA-256: 226628aa30a80109425cae20ca9253cc1399b57574f56a94d1f226905c58d63e
+SHA-256: c07215a9442754fc97a122b58f831033d33e337aba4de49b19d1d6b0c269ed87
